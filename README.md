@@ -6,6 +6,17 @@
 
 
 
+# Description:
+
+
+
+## Tone Analyzer:
+
+This service uses linguistic analysis to detect joy, fear, sadness, anger, analytical, confident and tentative tones found in text.
+*This system is for demonstration purposes only and is not intended to process Personal Data.
+
+
+
 
 
 
