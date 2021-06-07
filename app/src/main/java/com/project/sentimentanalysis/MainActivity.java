@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
                     txt1.setText("What is happening inside the thread");
                 }
             });
-            Authenticator authenticator = new IamAuthenticator("qOQvdMRiNw5sn9dNH6h0aJXrpRi0nMdzLzhzJYtKvdTs");
+            Authenticator authenticator = new IamAuthenticator("Replace with your api key");
             ToneAnalyzer service = new ToneAnalyzer("2017-09-21", authenticator);
 
             ToneOptions toneOptions = new ToneOptions.Builder().text(String.valueOf(edtTxt1.getText())).build();
