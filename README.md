@@ -14,6 +14,7 @@
 This service uses linguistic analysis to detect joy, fear, sadness, anger, analytical, confident and tentative tones found in text.
 This system is for demonstration purposes only and is not intended to process Personal Data.The IBM Watson™ Tone Analyzer service uses linguistic analysis to detect emotional and language tones in written text.
   Analyze emotions and tones in what people write online, like tweets or reviews. Predict whether they are happy, sad, confident, and more.
+  Here I explain how you can start from scratch: https://sheikhabdullahkurana.medium.com/make-tone-analyzer-android-app-153d06e12ee8
   
   <div align="center" >
 
